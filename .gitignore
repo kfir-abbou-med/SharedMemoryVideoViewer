@@ -41,3 +41,5 @@ moc_*.*
 *.qmake*
 /shared_memory_viewer
 Makefile
+/nlohmann
+*.deb*
